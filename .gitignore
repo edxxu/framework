@@ -1,3 +1,7 @@
 log/
 
 nbproject/
+
+cov/
+
+cache/
